@@ -1,0 +1,11 @@
+Model Information:
+* title:	BillBoard
+* source:	https://sketchfab.com/3d-models/billboard-17a1bdb279ac4141bf9a25a61e94ffed
+* author:	koiko90 (https://sketchfab.com/koiko90)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BillBoard" (https://sketchfab.com/3d-models/billboard-17a1bdb279ac4141bf9a25a61e94ffed) by koiko90 (https://sketchfab.com/koiko90) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
